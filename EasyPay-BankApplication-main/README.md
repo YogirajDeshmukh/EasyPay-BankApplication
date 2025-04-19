@@ -93,8 +93,8 @@ Contributions are welcome! To contribute to this project, follow these steps:
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-- **Email**: tejas-jadhav@mitaoe.ac.in
-- **GitHub**: [tejasjadhav30](https://github.com/tejasjadhav30)
+- **Email**: yogiraj.deshmukh@mitaoe.ac.in
+- **GitHub**: [YogirajDeshmukh](https://github.com/YogirajDeshmukh)
 
 
 ---
